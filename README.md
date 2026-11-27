@@ -120,9 +120,6 @@ Execute all cells to extract features, perform clustering and visualize the resu
 - Compare HOG features with CNN-based image features.
 - Evaluate clustering quality with additional metrics.
 
-## 👨‍💻 Author
-**Anand**
-
 Mechanical Engineering Graduate | Aspiring Machine Learning Engineer
 
 Skills: Python | Machine Learning | Deep Learning | Computer Vision | Data Analysis
